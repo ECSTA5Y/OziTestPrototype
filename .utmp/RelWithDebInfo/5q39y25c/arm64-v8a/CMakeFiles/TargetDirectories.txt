@@ -1,0 +1,5 @@
+A:/UnityProjects/Hamdoon/.utmp/RelWithDebInfo/5q39y25c/arm64-v8a/CMakeFiles/edit_cache.dir
+A:/UnityProjects/Hamdoon/.utmp/RelWithDebInfo/5q39y25c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+A:/UnityProjects/Hamdoon/.utmp/RelWithDebInfo/5q39y25c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+A:/UnityProjects/Hamdoon/.utmp/RelWithDebInfo/5q39y25c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+A:/UnityProjects/Hamdoon/.utmp/RelWithDebInfo/5q39y25c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
